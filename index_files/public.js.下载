@@ -1,0 +1,8 @@
+$(".menu").click(function(){
+	$(".menuBox").toggle();
+})
+function test(obj){
+
+    location.href="/?"+"ddw="+obj;
+
+}
